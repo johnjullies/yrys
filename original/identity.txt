@@ -1,0 +1,4 @@
+font: Open Sans #181818
+background blue: #b3c7eb
+ 	  hover: #019dbe
+background pink: #f87e7b
